@@ -1,0 +1,8 @@
+name: chainercv_minimum
+channels:
+- !!python/unicode
+  'defaults'
+dependencies:
+  - Cython
+  - numpy
+  - Pillow

@@ -1,0 +1,5 @@
+chainer>=4.0
+Cython
+matplotlib
+numpy
+Pillow
